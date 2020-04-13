@@ -1,0 +1,1 @@
+print("zdravo svete pera")
